@@ -10,5 +10,5 @@ class Cat
 
 end
 
-meow = Cat.new('meow!')
+# meow = Cat.new('meow!')
 # binding.pry
